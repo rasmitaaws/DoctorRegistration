@@ -1,0 +1,11 @@
+Table Design:-
+Doctor Registration
+Patient Registration
+Admin Registration
+Location Deatils
+Clinic Details
+Disease Details
+Relation ships-------------------------------------------------------------------------------
+Disease with Doctor
+Disease with Clinic
+Clinic with Doctor
